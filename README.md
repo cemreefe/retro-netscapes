@@ -1,5 +1,14 @@
-# 🧿 Turkish Netscapes
-This is an index that aims to bring together the pioneering websites, early adopters, visionaries of turkish web.
+# Retro Netscapes
+
+| website | established | tags |
+|---|---|---|
+|[www.sullivanbuses.com](https://www.sullivanbuses.com/)| 1998? | `commerical` `public transport` | 
+|[tokyodiner.com](https://tokyodiner.com/)| 2005 | `commercial` `restaurant` | 
+
+
+
+
+# Turkish Retro Netscapes
 
 | website | established | tags |
 |---|---|---|
