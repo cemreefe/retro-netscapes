@@ -3,7 +3,8 @@
 | website | established | tags |
 |---|---|---|
 |[www.sullivanbuses.com](https://www.sullivanbuses.com/)| 1998? | `commerical` `public transport` | 
-|[tokyodiner.com](https://tokyodiner.com/)| 2005 | `commercial` `restaurant` | 
+|[tokyodiner.com](https://tokyodiner.com/)| 1999 | `commercial` `restaurant` | 
+|[alf-s-room.com](https://alf-s-room.com/)| 1996 | `personal blog` `japanese` | 
 
 
 
